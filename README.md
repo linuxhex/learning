@@ -6,6 +6,6 @@
 
 思维导图地址： https://www.processon.com/mindmap/5dbc300ee4b09df5518caf39
 
-期望一起完善脑图的请提issues
+期望一起完善脑图的请提issues，备注邮箱用于开权限
 
 【90后】脑图输出人：金山算法工程师, 小米后台工程师, 华为工程师
